@@ -33,7 +33,7 @@ title(sprintf('Convex (err=%g)', err_cvx));
 subplot(1,2,2);
 plot(X_sbl(:), X0(:), 'x');
 grid on;
-title(sprintf('SBl (err=%g)', err_sbl));
+title(sprintf('SBL (err=%g)', err_sbl));
 
 
 
